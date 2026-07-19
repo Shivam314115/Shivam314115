@@ -9,7 +9,7 @@
     }
   </style>
   <rect width="860" height="200" fill="transparent" />
-  <text class="text stat" x="20" y="30">238 contributions in the last year</text>
+  <text class="text stat" x="20" y="30">240 contributions in the last year</text>
   <g transform="translate(20, 50)">
     <rect class="box" x="0" y="0" width="11" height="11" fill="#161b22">
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.0s" fill="freeze" />
