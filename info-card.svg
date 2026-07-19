@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 250" width="490" height="250">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 6px; }
+    .text { font-family: "Courier New", monospace; font-size: 14px; }
+    .title { fill: #58a6ff; font-weight: bold; }
+    .key { fill: #3fb950; font-weight: bold; }
+    .value { fill: #c9d1d9; }
+    .line { opacity: 0; }
+    @keyframes fadeSlideIn {
+      0% { opacity: 0; transform: translateX(-10px); }
+      100% { opacity: 1; transform: translateX(0); }
+    }
+    .line-0 { animation: fadeSlideIn 0.4s ease forwards 0.5s; }
+    .line-1 { animation: fadeSlideIn 0.4s ease forwards 0.7s; }
+    .line-2 { animation: fadeSlideIn 0.4s ease forwards 0.9s; }
+    .line-3 { animation: fadeSlideIn 0.4s ease forwards 1.1s; }
+    .line-4 { animation: fadeSlideIn 0.4s ease forwards 1.3s; }
+    .line-5 { animation: fadeSlideIn 0.4s ease forwards 1.5s; }
+    .line-6 { animation: fadeSlideIn 0.4s ease forwards 1.7000000000000002s; }
+  </style>
+  <rect class="bg" x="5" y="5" width="480" height="240" />
+  <g class="line line-0">
+    <text class="text title" x="25" y="40">avi@github ~</text>
+    <text class="text value" x="25" y="55">----------------------------------------</text>
+  </g>
+  <g class="line line-1">
+    <text class="text key" x="25" y="85">Role</text>
+    <text class="text value" x="120" y="85">: Software Engineer</text>
+  </g>
+  <g class="line line-2">
+    <text class="text key" x="25" y="110">Stack</text>
+    <text class="text value" x="120" y="110">: Python, TypeScript, React, Go</text>
+  </g>
+  <g class="line line-3">
+    <text class="text key" x="25" y="135">Currently</text>
+    <text class="text value" x="120" y="135">: Building cool side projects</text>
+  </g>
+  <g class="line line-4">
+    <text class="text key" x="25" y="160">Learning</text>
+    <text class="text value" x="120" y="160">: SVG Animations & GitHub Actions</text>
+  </g>
+  <g class="line line-5">
+    <text class="text key" x="25" y="185">Hobbies</text>
+    <text class="text value" x="120" y="185">: Design, Open Source, Automation</text>
+  </g>
+  <g class="line line-6">
+    <rect x="25" y="210" width="15" height="15" fill="#ff7b72" rx="2" />
+    <rect x="45" y="210" width="15" height="15" fill="#ffa657" rx="2" />
+    <rect x="65" y="210" width="15" height="15" fill="#3fb950" rx="2" />
+    <rect x="85" y="210" width="15" height="15" fill="#a5d6ff" rx="2" />
+    <rect x="105" y="210" width="15" height="15" fill="#79c0ff" rx="2" />
+    <rect x="125" y="210" width="15" height="15" fill="#d2a8ff" rx="2" />
+  </g>
+</svg>
