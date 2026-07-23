@@ -9,7 +9,7 @@
     }
   </style>
   <rect width="860" height="200" fill="transparent" />
-  <text class="text stat" x="20" y="30">241 contributions in the last year</text>
+  <text class="text stat" x="20" y="30">242 contributions in the last year</text>
   <g transform="translate(20, 50)">
     <rect class="box" x="0" y="0" width="11" height="11" fill="#161b22">
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.0s" fill="freeze" />
@@ -855,7 +855,7 @@
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.6s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="0.6s" fill="freeze" />
     </rect>
-    <rect class="box" x="450" y="15" width="11" height="11" fill="#161b22">
+    <rect class="box" x="450" y="15" width="11" height="11" fill="#0e4429">
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.65s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="0.65s" fill="freeze" />
     </rect>
@@ -1095,7 +1095,7 @@
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.96s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="0.96s" fill="freeze" />
     </rect>
-    <rect class="box" x="570" y="75" width="11" height="11" fill="#0e4429">
+    <rect class="box" x="570" y="75" width="11" height="11" fill="#161b22">
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.01s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="1.01s" fill="freeze" />
     </rect>
@@ -1103,7 +1103,7 @@
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.06s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="1.06s" fill="freeze" />
     </rect>
-    <rect class="box" x="585" y="0" width="11" height="11" fill="#161b22">
+    <rect class="box" x="585" y="0" width="11" height="11" fill="#0e4429">
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.78s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="0.78s" fill="freeze" />
     </rect>
@@ -1263,19 +1263,19 @@
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.08s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="1.08s" fill="freeze" />
     </rect>
-    <rect class="box" x="660" y="75" width="11" height="11" fill="#0e4429">
+    <rect class="box" x="660" y="75" width="11" height="11" fill="#161b22">
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.13s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="1.13s" fill="freeze" />
     </rect>
-    <rect class="box" x="660" y="90" width="11" height="11" fill="#161b22">
+    <rect class="box" x="660" y="90" width="11" height="11" fill="#0e4429">
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.1800000000000002s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="1.1800000000000002s" fill="freeze" />
     </rect>
-    <rect class="box" x="675" y="0" width="11" height="11" fill="#006d32">
+    <rect class="box" x="675" y="0" width="11" height="11" fill="#161b22">
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.9s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="0.9s" fill="freeze" />
     </rect>
-    <rect class="box" x="675" y="15" width="11" height="11" fill="#161b22">
+    <rect class="box" x="675" y="15" width="11" height="11" fill="#006d32">
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.9500000000000001s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="0.9500000000000001s" fill="freeze" />
     </rect>
@@ -1299,11 +1299,11 @@
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.2000000000000002s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="1.2000000000000002s" fill="freeze" />
     </rect>
-    <rect class="box" x="690" y="0" width="11" height="11" fill="#0e4429">
+    <rect class="box" x="690" y="0" width="11" height="11" fill="#161b22">
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.92s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="0.92s" fill="freeze" />
     </rect>
-    <rect class="box" x="690" y="15" width="11" height="11" fill="#161b22">
+    <rect class="box" x="690" y="15" width="11" height="11" fill="#0e4429">
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.9700000000000001s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="0.9700000000000001s" fill="freeze" />
     </rect>
@@ -1327,11 +1327,11 @@
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.2200000000000002s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="1.2200000000000002s" fill="freeze" />
     </rect>
-    <rect class="box" x="705" y="0" width="11" height="11" fill="#0e4429">
+    <rect class="box" x="705" y="0" width="11" height="11" fill="#161b22">
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.9400000000000001s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="0.9400000000000001s" fill="freeze" />
     </rect>
-    <rect class="box" x="705" y="15" width="11" height="11" fill="#161b22">
+    <rect class="box" x="705" y="15" width="11" height="11" fill="#0e4429">
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.9900000000000001s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="0.9900000000000001s" fill="freeze" />
     </rect>
@@ -1471,7 +1471,7 @@
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.04s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="1.04s" fill="freeze" />
     </rect>
-    <rect class="box" x="780" y="15" width="11" height="11" fill="#0e4429">
+    <rect class="box" x="780" y="15" width="11" height="11" fill="#161b22">
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.09s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="1.09s" fill="freeze" />
     </rect>
@@ -1479,9 +1479,13 @@
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.1400000000000001s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="1.1400000000000001s" fill="freeze" />
     </rect>
-    <rect class="box" x="780" y="45" width="11" height="11" fill="#161b22">
+    <rect class="box" x="780" y="45" width="11" height="11" fill="#0e4429">
       <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.19s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="1.19s" fill="freeze" />
+    </rect>
+    <rect class="box" x="780" y="60" width="11" height="11" fill="#161b22">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.24s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 0" dur="0.5s" begin="1.24s" fill="freeze" />
     </rect>
   </g>
   <g transform="translate(710, 170)">
